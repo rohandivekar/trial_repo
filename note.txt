@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-some new changes from rohan
-=======
-hello i make some changes in note file
->>>>>>> 29d414c37ff1a49847fba5da8dd9a230515e65d1
